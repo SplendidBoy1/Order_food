@@ -1,0 +1,275 @@
+[
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BunBo",
+                     "Hamburger",
+                     "Comxuong"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "10000",
+                     "25000",
+                     "20000"
+              ],
+              "Amount": [
+                     1,
+                     2,
+                     4,
+                     8
+              ],
+              "Old Total": 25000,
+              "Current Total": 285000,
+              "Time": "14:48:02",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BunBo",
+                     "Hamburger",
+                     "Comxuong"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "10000",
+                     "25000",
+                     "20000"
+              ],
+              "Amount": [
+                     2,
+                     4,
+                     2,
+                     3
+              ],
+              "Old Total": 50000,
+              "Current Total": 160000,
+              "Time": "14:48:38",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "BanhMi",
+                     "BotChien"
+              ],
+              "AlonePrice": [
+                     "6000",
+                     "7000"
+              ],
+              "Amount": [
+                     2,
+                     2
+              ],
+              "Old Total": 26000,
+              "Current Total": 26000,
+              "Time": "14:59:01",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BunBo",
+                     "Hamburger",
+                     "Comxuong",
+                     "BanhMi"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "10000",
+                     "25000",
+                     "20000",
+                     "6000"
+              ],
+              "Amount": [
+                     2,
+                     18,
+                     5,
+                     4,
+                     8
+              ],
+              "Old Total": 20000,
+              "Current Total": 443000,
+              "Time": "14:59:12",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BunBo"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "10000"
+              ],
+              "Amount": [
+                     2,
+                     2
+              ],
+              "Old Total": 30000,
+              "Current Total": 30000,
+              "Time": "15:00:47",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Hamburger",
+                     "Comxuong",
+                     "BanhMi",
+                     "BotChien"
+              ],
+              "AlonePrice": [
+                     "25000",
+                     "20000",
+                     "6000",
+                     "7000"
+              ],
+              "Amount": [
+                     7,
+                     7,
+                     5,
+                     8
+              ],
+              "Old Total": 160000,
+              "Current Total": 401000,
+              "Time": "15:00:56",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BanhMi"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "6000"
+              ],
+              "Amount": [
+                     3,
+                     4
+              ],
+              "Old Total": 39000,
+              "Current Total": 39000,
+              "Time": "15:10:17",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "BotChien",
+                     "BunDau"
+              ],
+              "AlonePrice": [
+                     "7000",
+                     "20000"
+              ],
+              "Amount": [
+                     2,
+                     3
+              ],
+              "Old Total": 74000,
+              "Current Total": 74000,
+              "Time": "15:10:41",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BunBo",
+                     "BotChien",
+                     "BunDau",
+                     "Hamburger"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "10000",
+                     "7000",
+                     "20000",
+                     "25000"
+              ],
+              "Amount": [
+                     2,
+                     2,
+                     2,
+                     2,
+                     2
+              ],
+              "Old Total": 25000,
+              "Current Total": 134000,
+              "Time": "16:54:46",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BanhMi"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "6000"
+              ],
+              "Amount": [
+                     3,
+                     2
+              ],
+              "Old Total": 27000,
+              "Current Total": 27000,
+              "Time": "14:52:07",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BanhMi",
+                     "BunDau",
+                     "Hamburger",
+                     "Comxuong"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "6000",
+                     "20000",
+                     "25000",
+                     "20000"
+              ],
+              "Amount": [
+                     4,
+                     2,
+                     3,
+                     3,
+                     2
+              ],
+              "Old Total": 92000,
+              "Current Total": 207000,
+              "Time": "10:11:29",
+              "Static": "Pay"
+       },
+       {
+              "NumberDesk": 1,
+              "NameDishes": [
+                     "Pho",
+                     "BunBo"
+              ],
+              "AlonePrice": [
+                     "5000",
+                     "10000"
+              ],
+              "Amount": [
+                     1,
+                     1
+              ],
+              "Old Total": 15000,
+              "Current Total": 15000,
+              "Time": "13:08:28",
+              "Static": "Pay"
+       }
+]
